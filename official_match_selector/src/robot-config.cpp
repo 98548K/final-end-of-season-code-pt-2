@@ -9,6 +9,7 @@ brain  Brain;
 
 // VEXcode device constructors
 controller Controller1 = controller(primary);
+
 motor intake = motor(PORT12, ratio6_1, false);
 motor poncher = motor(PORT2, ratio18_1, false);
 

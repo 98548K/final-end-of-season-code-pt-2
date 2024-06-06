@@ -43,7 +43,7 @@ int main() {
   // Run the pre-autonomous function.
   pre_auton();
 
-  printf("asjdflksjadlkfjaslkdflasdf");
+  printf("chris for president");
 
   // Prevent main from exiting with an infinite loop.
   while (true) {
