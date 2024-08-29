@@ -6,13 +6,11 @@ extern brain Brain;
 extern competition Competition;
 extern controller Controller1;
 extern motor intake;
-extern motor poncher;
 extern inertial Inertial7;
-extern digital_out elevation;
-extern digital_out LHwings;
-extern digital_out RHwings;
-extern digital_out RVwings;
-extern digital_out LVwings;
+extern rotation tracking1;
+extern rotation tracking2;
+extern digital_out PTO;
+extern digital_out clamp;
 
 extern motor LF;
 extern motor LM;
